@@ -18,5 +18,16 @@
     <ClCompile Include="..\Source1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\licence.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\sha256.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
